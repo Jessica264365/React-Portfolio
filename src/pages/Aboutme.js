@@ -9,4 +9,4 @@ function AboutMe() {
     </main>
   );
 }
-export default About;
+export default AboutMe;
