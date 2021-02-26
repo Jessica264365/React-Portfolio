@@ -7,7 +7,7 @@ function Contact() {
         <div className="col-md-8">
           <form
             className="block form-horizontal"
-            action="mailto:mkarkuody@yahoo.com"
+            action="mailto:jessicamorrison.webdev@gmail.com"
           >
             <h1 className="block-header">Contact Me</h1>
             <hr />
