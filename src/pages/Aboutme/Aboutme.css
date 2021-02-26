@@ -1,0 +1,19 @@
+img {
+  max-width: 250px;
+}
+.aboutme {
+  float: left;
+  margin: 10px;
+  max-width: 200px;
+}
+main section {
+  margin-top: 60px;
+  margin-left: 10px;
+  padding: 5%;
+}
+main section div {
+  background-color: white;
+}
+i {
+  color: black;
+}

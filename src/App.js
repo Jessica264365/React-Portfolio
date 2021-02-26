@@ -1,14 +1,14 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import Navbar from "./components/Navbar";
+import NavTop from "./components/NavBar";
 import Footer from "./components/Footer";
-import Aboutme from "./pages/Aboutme";
-import Contact from "./pages/Contact";
+import Aboutme from "./pages/Aboutme/Aboutme";
+import Contact from "./pages/Contact/Contact";
 import Portfolio from "./pages/Portfolio";
 function App() {
   return (
     <Router>
-      <Navbar />
+      <NavTop />
       <Route exact path="/" component={Aboutme} />
       <Route exact path="/contact" component={Contact} />
       <Route exact path="/portfolio" component={Portfolio} />

@@ -1,30 +1,20 @@
 import React from "react";
-function Navbar() {
-  return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-    <div className="container">
-      <a className="navbar-brand" href="/" id="me">Jessica Whitman</a>
-      <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01"
-        aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-        <span className="navbar-toggler-icon"></span>
-      </button>
+import Navbar from "react-bootstrap/Navbar";
+import Nav from "react-bootstrap/Nav";
 
-      <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-        <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
-          <li className="nav-item">
-            <a className="nav-link" href="/Contact">Contact</a>
-          </li>
-          <li className="nav-item active">
-            <a className="nav-link" href="/Portfolio">Portfolio</a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="/">About</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+export default function NavTop() {
+  return (
+    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+      <Navbar.Brand href="/">Jessica Whitman</Navbar.Brand>
+      <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+      <Navbar.Collapse id="responsive-navbar-nav">
+        <Nav>
+          <Nav.Link href="#deets">More deets</Nav.Link>
+          <Nav.Link eventKey={2} href="#memes">
+            Dank memes
+          </Nav.Link>
+        </Nav>
+      </Navbar.Collapse>
+    </Navbar>
   );
 }
-
-export default Navbar;
