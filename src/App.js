@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import NavTop from "./components/NavBar";
-import Footer from "./components/Footer";
+import NavTop from "./components/NavBar/NavBar";
+import Footer from "./components/Footer/Footer";
 import Aboutme from "./pages/Aboutme/Aboutme";
 import Contact from "./pages/Contact/Contact";
 import Portfolio from "./pages/Portfolio";

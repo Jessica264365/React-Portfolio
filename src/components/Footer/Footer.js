@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="footer">
+    <footer className="footer fixed-bottom">
       <div className="footerline"></div>
 
       <p className="text-muted footertext text-center">
