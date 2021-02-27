@@ -4,7 +4,7 @@ import NavTop from "./components/NavBar/NavBar";
 import Footer from "./components/Footer/Footer";
 import Aboutme from "./pages/Aboutme/Aboutme";
 import Contact from "./pages/Contact/Contact";
-import Portfolio from "./pages/Portfolio";
+import Portfolio from "./pages/Portfolio/Portfolio";
 function App() {
   return (
     <Router>

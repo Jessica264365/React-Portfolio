@@ -13,12 +13,12 @@ const resume = <FontAwesomeIcon icon={faFilePdf} id="i" className="fa-3x" />;
 
 function AboutMe() {
   return (
-    <main class="container mt-4">
-      <section class="row">
-        <div class="col-lg-7 col-md-7 col-xs-12 about">
+    <main className="container my-5">
+      <section className="row">
+        <div className="col-lg-7 col-md-7 col-xs-12 about">
           <h1>About me</h1>
           <hr />
-          <img src={me} class="aboutme" alt="A head shot of myself" />
+          <img src={me} className="aboutme" alt="A head shot of myself" />
           <p>
             I am a West Seattleite who loves dogs, absurdist fiction books, and
             caffeine. I am a dedicated team player who is ready to dive right
@@ -33,11 +33,11 @@ function AboutMe() {
             developer every day. Please give my portfolio and resume a peek.
           </p>
 
-          <div class="row justify-content-center">
+          <div className="row justify-content-center">
             <OverlayTrigger overlay={<Tooltip id="tooltip-top">Email</Tooltip>}>
               <div>
                 <a
-                  class="mx-3"
+                  className="mx-3"
                   target="_blank"
                   href="mailto:jwhitman135@outlook.com"
                   aria-label="Email"
@@ -53,7 +53,7 @@ function AboutMe() {
                 <a
                   target="_blank"
                   href="https://github.com/Jessica264365"
-                  class="mx-3"
+                  className="mx-3"
                   data-toggle="tooltip"
                   data-original-title="GitHub"
                 >
@@ -66,7 +66,7 @@ function AboutMe() {
             >
               <div>
                 <a
-                  class="mx-3"
+                  className="mx-3"
                   target="_blank"
                   href="https://www.linkedin.com/in/jessica-whitman-9529301bb/"
                   aria-label="LinkedIn"
@@ -82,7 +82,7 @@ function AboutMe() {
             >
               <div>
                 <a
-                  class="mx-3 mb-1"
+                  className="mx-3 mb-1"
                   target="_blank"
                   href={pdf}
                   aria-label="Resume"
