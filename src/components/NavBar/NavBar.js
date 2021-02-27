@@ -13,7 +13,7 @@ export default function NavTop() {
         className="justify-content-end"
       >
         <Nav>
-          <Nav.Link href="/React-Portfolio/">About Me</Nav.Link>
+          <Nav.Link href="/">About Me</Nav.Link>
           <Nav.Link eventKey={2} href="/React-Portfolio/portfolio">
             Portfolio
           </Nav.Link>

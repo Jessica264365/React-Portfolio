@@ -7,12 +7,12 @@ import Contact from "./pages/Contact/Contact";
 import Portfolio from "./pages/Portfolio/Portfolio";
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <NavTop />
       <Switch>
         <Route exact path="/React-Portfolio/" component={Aboutme} />
-        <Route exact path="/React-Portfolio//contact" component={Contact} />
-        <Route exact path="/React-Portfolio//portfolio" component={Portfolio} />
+        <Route exact path="/React-Portfolio/contact" component={Contact} />
+        <Route exact path="/React-Portfolio/portfolio" component={Portfolio} />
       </Switch>
       <Footer />
     </Router>
