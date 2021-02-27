@@ -7,13 +7,13 @@ import Contact from "./pages/Contact/Contact";
 import Portfolio from "./pages/Portfolio/Portfolio";
 function App() {
   return (
-    <Router >
+    <Router>
       <NavTop />
-      
-        <Route exact path="/" component={Aboutme} />
-        <Route exact path="/React-Portfolio/contact" component={Contact} />
-        <Route exact path="/portfolio" component={Portfolio} />
-     
+
+      <Route exact path="/" component={Aboutme} />
+      <Route exact path="/contact" component={Contact} />
+      <Route exact path="/portfolio" component={Portfolio} />
+
       <Footer />
     </Router>
   );

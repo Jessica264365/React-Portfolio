@@ -20,7 +20,7 @@ export default function NavTop() {
           <Nav.Link eventKey={2} href={pdf}>
             Resume
           </Nav.Link>
-          <Nav.Link eventKey={2} href="/React-Portfolio/contact">
+          <Nav.Link eventKey={2} href="/contact">
             Contact
           </Nav.Link>
         </Nav>

@@ -4,7 +4,7 @@
         "_id ": 1,
         "title": "Budget Tracker",
         "about": "A budget tracking application that works offline using the browser's indexedDB and a service worker to cache static files.",
-        "src": "./images/budgettracker.gif",
+        "src": "../images/budgettracker.gif",
         "deployment": "https://immense-mesa-51870.herokuapp.com/",
         "repo": "https://github.com/Jessica264365/Budget-Tracker"
       },
@@ -12,7 +12,7 @@
         "_id ": 2,
         "title": "Burger Logger",
         "about": "A burger logging application that demonstrates the use of ORM utilization, MVC file structure, Handlebars, MySQL, Node, and Express",
-        "src": "./images/burger.gif",
+        "src": "../images/burger.gif",
         "deployment": "https://frozen-ravine-20884.herokuapp.com/",
         "repo": "https://github.com/Jessica264365/Eat-The-Burger"
       },
