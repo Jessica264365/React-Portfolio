@@ -2,22 +2,22 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-- [View the GitHub repository](https://github.com/Jessica264365/Jessica264365.github.io)
-- [View the live website](https://jessica264365.github.io/)
+- [View the GitHub repository](https://github.com/Jessica264365/React-Portfolio)
+- [View the live website](https://jessica264365.github.io/React-Portfolio/)
 
 ## Table of Contents
 
-- [About the Project](https://github.com/Jessica264365/Jessica264365.github.io#about-the-project)
-  - [Built With](https://github.com/Jessica264365/Jessica264365.github.io#built-with)
+- [About the Project](https://github.com/Jessica264365/React-Portfolio#about-the-project)
+  - [Built With](https://github.com/Jessica264365/React-Portfolio#built-with)
 
-* [Start Your Own](https://github.com/Jessica264365/Jessica264365.github.io#start-your-own)
-  - [Prerequisites](https://github.com/Jessica264365/Jessica264365.github.io#prerequisites)
-  - [Installation](https://github.com/Jessica264365/Jessica264365.github.io#installation)
+* [Start Your Own](https://github.com/Jessica264365/React-Portfolio#start-your-own)
+  - [Prerequisites](https://github.com/Jessica264365/React-Portfolio#prerequisites)
+  - [Installation](https://github.com/Jessica264365/React-Portfolio#installation)
 
-- [License](https://github.com/Jessica264365/Jessica264365.github.io#license)
-- [Roadmap](https://github.com/Jessica264365/Jessica264365.github.io#roadmap)
-- [Contribute](https://github.com/Jessica264365/Jessica264365.github.io#contribute)
-- [My Contact Information](https://github.com/Jessica264365/Jessica264365.github.io#my-contact-information)
+- [License](https://github.com/Jessica264365/React-Portfolio#license)
+- [Roadmap](https://github.com/Jessica264365/React-Portfolio#roadmap)
+- [Contribute](https://github.com/Jessica264365/React-Portfolio#contribute)
+- [My Contact Information](https://github.com/Jessica264365/React-Portfolio#my-contact-information)
 
 ## About the Project
 
@@ -45,7 +45,7 @@ Read up on the documentation
 
 1. Clone the repository
 
-   git@github.<span></span>com:Jessica264365/Jessica264365.github.io.git
+   git@github.<span></span>com:Jessica264365/React-Portfolio.git
 
 2. Run this command in your terminal to install all the dependencies.
 
@@ -61,7 +61,7 @@ A short and simple permissive license with conditions only requiring preservatio
 
 ## Roadmap
 
-This project does not currently have an open issues. Please check the [issues](https://github.com/Jessica264365/Jessica264365.github.io/issues) page on GitHub for any updates.
+This project does not currently have an open issues. Please check the [issues](https://github.com/Jessica264365/React-Portfolio/issues) page on GitHub for any updates.
 
 ## Contribute
 
@@ -79,4 +79,4 @@ Email: jessicamorrison.webdev@gmail.com
 
 GitHub Page: https://github.com/Jessica264365
 
-Link to project: https://github.com/Jessica264365/Jessica264365.github.io
+Link to project: https://github.com/Jessica264365/React-Portfolio
