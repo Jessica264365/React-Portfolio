@@ -10,9 +10,9 @@ function App() {
     <Router basename={process.env.PUBLIC_URL}>
       <NavTop />
       <Switch>
-        <Route exact path="/" component={Aboutme} />
-        <Route exact path="/contact" component={Contact} />
-        <Route exact path="/portfolio" component={Portfolio} />
+        <Route exact path="/React-Portfolio/" component={Aboutme} />
+        <Route exact path="/React-Portfolio//contact" component={Contact} />
+        <Route exact path="/React-Portfolio//portfolio" component={Portfolio} />
       </Switch>
       <Footer />
     </Router>
