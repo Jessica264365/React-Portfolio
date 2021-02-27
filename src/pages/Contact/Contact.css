@@ -2,9 +2,11 @@
   color: white;
   background-color: teal;
   border-color: teal;
+  
 }
 .contactsubmit {
   background-color: white;
+  border-radius: 5%;
 }
 .container {
   padding-top: 0px;

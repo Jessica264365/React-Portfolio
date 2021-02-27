@@ -2,6 +2,7 @@ import React from "react";
 import project from "../../project.json";
 import "./Project.css";
 
+
 function ProjectCard() {
   const projectDiv = project.project.map((item) => (
     <div
@@ -15,10 +16,10 @@ function ProjectCard() {
 
       <p className="card-text text-center">{item.about}</p>
       <div className="card-footer d-flex justify-content-center">
-        <a class="btn btn-primary mx-1" href={item.repo} role="button">
+        <a class="btn btn-primary mx-1" id="button" href={item.repo} role="button">
           Repository
         </a>
-        <a class="btn btn-primary mx-1" href={item.deployment} role="button">
+        <a class="btn btn-primary mx-1" id="button" href={item.deployment} role="button">
           Deployed
         </a>
       </div>

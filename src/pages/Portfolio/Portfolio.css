@@ -11,3 +11,7 @@
   text-align: center;
   margin: auto;
 }
+#button {
+  background-color: teal;
+  border-color: teal;
+}

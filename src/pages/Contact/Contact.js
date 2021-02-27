@@ -41,6 +41,7 @@ function Contact() {
               type="submit"
               className="btn btn-primary mb-2"
               value="Submit"
+              
             >
               Submit
             </button>
