@@ -11,7 +11,7 @@ function App() {
       <NavTop />
       <Switch>
         <Route exact path="/" component={Aboutme} />
-        <Route exact path="/contact" component={Contact} />
+        <Route exact path="/React-Portfolio/contact" component={Contact} />
         <Route exact path="/portfolio" component={Portfolio} />
       </Switch>
       <Footer />
