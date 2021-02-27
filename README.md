@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+- [View the GitHub repository](https://github.com/Jessica264365/React-Employee-Directory)
+- [View the live website](https://jessica264365.github.io/React-Employee-Directory/)
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [About the Project](https://github.com/Jessica264365/React-Employee-Directory#about-the-project)
+  - [Built With](https://github.com/Jessica264365/React-Employee-Directory#built-with)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* [Start Your Own](https://github.com/Jessica264365/React-Employee-Directory#start-your-own)
+  - [Prerequisites](https://github.com/Jessica264365/React-Employee-Directory#prerequisites)
+  - [Installation](https://github.com/Jessica264365/React-Employee-Directory#installation)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [License](https://github.com/Jessica264365/React-Employee-Directory#license)
+- [Roadmap](https://github.com/Jessica264365/React-Employee-Directory#roadmap)
+- [Contribute](https://github.com/Jessica264365/React-Employee-Directory#contribute)
+- [My Contact Information](https://github.com/Jessica264365/React-Employee-Directory#my-contact-information)
 
-### `npm test`
+## About the Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This is a personal portfolio built with React. It has an about me section where you can find links to my LinkinedIn, Github, email and resume. There is a portfolio section displaying some of my best works and projects. Along with that you can find a contact form on the contact page. The portfolio section is created by a single card component. An array of my information about my best works is mapped through to create a single card component to be displayed for each project.
 
-### `npm run build`
+![](./public/images/reactportfolio.gif)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+React, React-Bootstrap, and Regular Bootstrap
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Start Your Own
 
-### `npm run eject`
+To get a copy of this project on your local computer please follow these next steps.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Prerequisites
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Read up on the documentation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [React](https://reactjs.org/)
+- [React Font Awesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
+- [React-Bootstrap](https://react-bootstrap.github.io/getting-started/introduction)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Installation
 
-## Learn More
+1. Clone the repository
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   git@github.<span></span>com:Jessica264365/React-Employee-Directory.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. Run this command in your terminal to install all the dependencies.
 
-### Code Splitting
+   `npm i`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3. Run the application by entering the following command in your terminal
 
-### Analyzing the Bundle Size
+   `npm start`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### MIT License
 
-### Making a Progressive Web App
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Roadmap
 
-### Advanced Configuration
+This project does not currently have an open issues. Please check the [issues](https://github.com/Jessica264365/React-Employee-Directory/issues) page on GitHub for any updates.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contribute
 
-### Deployment
+If you are interesting in contributing to this project please follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+1. Fork the project
+2. Create your own branch
+3. Commit your personal changes
+4. Push to the branch
+5. Do a pull request
 
-### `npm run build` fails to minify
+## My Contact Information
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Email: jessicamorrison.webdev@gmail.com
+
+GitHub Page: https://github.com/Jessica264365
+
+Link to project: https://github.com/Jessica264365/React-Employee-Directory
