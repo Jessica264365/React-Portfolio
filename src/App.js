@@ -7,7 +7,7 @@ import Contact from "./pages/Contact/Contact";
 import Portfolio from "./pages/Portfolio/Portfolio";
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <NavTop />
       <Route exact path="/" component={Aboutme} />
       <Route exact path="/contact" component={Contact} />
