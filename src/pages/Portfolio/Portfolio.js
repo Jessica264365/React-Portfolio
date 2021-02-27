@@ -4,11 +4,16 @@ import ProjectCard from "../../components/Project/Project";
 
 const Portfolio = () => {
   return (
-    <main className="container mt-3">
-      <h1>Portfolio</h1>
+    <main className="container mt-3 text-center ">
+      <h1
+        className="text-white portfolio bg-dark text-lg-center"
+        id="portfolio"
+      >
+        Portfolio
+      </h1>
       <hr />
 
-      <ProjectCard />
+      <ProjectCard className="text-white" />
     </main>
   );
 };

@@ -1,6 +1,13 @@
-/* .port-image {
+.port-image {
   margin: 20px auto;
 }
 .container {
   margin-bottom: 90px;
-} */
+}
+#portfolio {
+  border: 2px solid #73ad21;
+  border-radius: 25px;
+  max-width: 400px;
+  text-align: center;
+  margin: auto;
+}

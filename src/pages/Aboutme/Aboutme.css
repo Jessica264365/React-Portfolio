@@ -17,3 +17,13 @@ main section div {
 #i {
   color: black;
 }
+.about {
+  padding: 20px;
+  
+}
+body {
+  background-image: url("./background.jpg");
+  background-size: contain;
+  /* background-repeat: no-repeat;
+  background-position: center center; */
+}
