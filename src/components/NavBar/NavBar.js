@@ -6,7 +6,7 @@ import pdf from "../../pages/Aboutme/resume.pdf";
 export default function NavTop() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" id="nav">
-      <Navbar.Brand href="/React-Portfolio/">Jessica Whitman</Navbar.Brand>
+      <Navbar.Brand href="/">Jessica Whitman</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse
         id="responsive-navbar-nav"
@@ -14,13 +14,13 @@ export default function NavTop() {
       >
         <Nav>
           <Nav.Link href="/">About Me</Nav.Link>
-          <Nav.Link eventKey={2} href="/React-Portfolio/portfolio">
+          <Nav.Link eventKey={2} href="/portfolio">
             Portfolio
           </Nav.Link>
           <Nav.Link eventKey={2} href={pdf}>
             Resume
           </Nav.Link>
-          <Nav.Link eventKey={2} href="/React-Portfolio/contact">
+          <Nav.Link eventKey={2} href="/contact">
             Contact
           </Nav.Link>
         </Nav>
