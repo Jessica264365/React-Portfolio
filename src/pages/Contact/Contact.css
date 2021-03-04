@@ -7,6 +7,8 @@
 .contactsubmit {
   background-color: white;
   border-radius: 5%;
+  padding: 2%;
+  margin-top: 35px;
 }
 .container {
   padding-top: 0px;
