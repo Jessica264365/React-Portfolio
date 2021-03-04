@@ -45,8 +45,8 @@
         "title": "Hawk Box",
         "about": " A Seahawks fan forum. Make an account and post videos and comments. This was a group project that was made with Handlebars, passport, express and mySQL.",
         "src": "/images/hawkbox.gif",
-        "deployment": "https://github.com/puakehaulani/README-generator#Getting-Started",
-        "repo": "https://github.com/puakehaulani/README-generator"
+        "deployment": "https://hawkbox.herokuapp.com/",
+        "repo": "https://github.com/luckyian/Hawk_Box"
       }
       
     ]
