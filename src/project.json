@@ -1,53 +1,52 @@
 {
-    "project": [
-      {
-        "_id ": 1,
-        "title": "Budget Tracker",
-        "about": "A budget tracking application that works offline using the browser's indexedDB and a service worker to cache static files.",
-        "src": "/images/budgettracker.gif",
-        "deployment": "https://immense-mesa-51870.herokuapp.com/",
-        "repo": "https://github.com/Jessica264365/Budget-Tracker"
-      },
-      {
-        "_id ": 2,
-        "title": "Burger Logger",
-        "about": "A burger logging application that demonstrates the use of ORM utilization, MVC file structure, Handlebars, MySQL, Node, and Express",
-        "src": "/images/burger.gif",
-        "deployment": "https://frozen-ravine-20884.herokuapp.com/",
-        "repo": "https://github.com/Jessica264365/Eat-The-Burger"
-      },
-      {
-        "_id ": 3,
-        "title": "Workout Tracker",
-        "about": " A command line professional README generator. That uses Node, Inquirer and makes an axios call to get the badge of your choice.",
-        "src": "/images/readme.gif",
-        "deployment": "https://github.com/Jessica264365/Professional-README-Generator",
-        "repo": "https://drive.google.com/file/d/1if7WTmco69nJCu9IYH9EwHRsvTMqtDqu/view"
-      },
-      {
-        "_id ": 4,
-        "title": "Panda Patter",
-        "about": "A team project that I worked on. I set up Firebase Authentication, the protect routes and used MongoDB, Express and React to render and save the flashcards.",
-        "src": "/images/panda.gif",
-        "deployment": "https://pandapatter.herokuapp.com/",
-        "repo": "https://github.com/Jessica264365/PandaPatter"
-      },
-      {
-        "_id ": 5,
-        "title": "React Employee Directory",
-        "about": "An employee directory created with React. The Random User API returns 100 random users. They can be filtered by using the search bar or sorted by last name.",
-        "src": "/images/employeedirectory.gif",
-        "deployment": "https://jessica264365.github.io/React-Employee-Directory/",
-        "repo": "https://github.com/Jessica264365/React-Employee-Directory"
-      },
-      {
-        "_id ": 6,
-        "title": "Hawk Box",
-        "about": " A Seahawks fan forum. Make an account and post videos and comments. This was a group project that was made with Handlebars, passport, express and mySQL.",
-        "src": "/images/hawkbox.gif",
-        "deployment": "https://hawkbox.herokuapp.com/",
-        "repo": "https://github.com/luckyian/Hawk_Box"
-      }
-      
-    ]
-  }
+  "project": [
+    {
+      "_id ": 1,
+      "title": "Budget Tracker",
+      "about": "A budget tracking application that works offline using the browser's indexedDB and a service worker to cache static files.",
+      "src": "/images/budgettracker.gif",
+      "deployment": "https://immense-mesa-51870.herokuapp.com/",
+      "repo": "https://github.com/Jessica264365/Budget-Tracker"
+    },
+    {
+      "_id ": 2,
+      "title": "Burger Logger",
+      "about": "A burger logging application that demonstrates the use of ORM utilization, MVC file structure, Handlebars, MySQL, Node, and Express",
+      "src": "/images/burger.gif",
+      "deployment": "https://frozen-ravine-20884.herokuapp.com/",
+      "repo": "https://github.com/Jessica264365/Eat-The-Burger"
+    },
+    {
+      "_id ": 3,
+      "title": "README Generator",
+      "about": " A command line professional README generator. That uses Node, Inquirer and makes an axios call to get the badge of your choice.",
+      "src": "/images/readme.gif",
+      "deployment": "https://github.com/Jessica264365/Professional-README-Generator",
+      "repo": "https://drive.google.com/file/d/1if7WTmco69nJCu9IYH9EwHRsvTMqtDqu/view"
+    },
+    {
+      "_id ": 4,
+      "title": "Panda Patter",
+      "about": "A team project that I worked on. I set up Firebase Authentication, the protect routes and used MongoDB, Express and React to render and save the flashcards.",
+      "src": "/images/panda.gif",
+      "deployment": "https://pandapatter.herokuapp.com/",
+      "repo": "https://github.com/Jessica264365/PandaPatter"
+    },
+    {
+      "_id ": 5,
+      "title": "React Employee Directory",
+      "about": "An employee directory created with React. The Random User API returns 100 random users. They can be filtered by using the search bar or sorted by last name.",
+      "src": "/images/employeedirectory.gif",
+      "deployment": "https://jessica264365.github.io/React-Employee-Directory/",
+      "repo": "https://github.com/Jessica264365/React-Employee-Directory"
+    },
+    {
+      "_id ": 6,
+      "title": "Hawk Box",
+      "about": " A Seahawks fan forum. Make an account and post videos and comments. This was a group project that was made with Handlebars, passport, express and mySQL.",
+      "src": "/images/hawkbox.gif",
+      "deployment": "https://hawkbox.herokuapp.com/",
+      "repo": "https://github.com/luckyian/Hawk_Box"
+    }
+  ]
+}

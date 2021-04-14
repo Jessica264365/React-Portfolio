@@ -7,7 +7,9 @@ import pdf from "../../pages/Aboutme/resume.pdf";
 export default function NavTop() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" id="nav">
-      <Navbar.Brand to="/" as={Link}>Jessica Whitman</Navbar.Brand>
+      <Navbar.Brand to="/" as={Link}>
+        Jessica Whitman
+      </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse
         id="responsive-navbar-nav"

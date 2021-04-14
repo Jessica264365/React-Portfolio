@@ -4,7 +4,7 @@ import "./Aboutme.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope, faFilePdf } from "@fortawesome/free-solid-svg-icons";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import pdf from "./resume.pdf";
+import pdf from "./resumeats.pdf";
 import OverlayTrigger from "react-bootstrap/OverlayTrigger";
 import Tooltip from "react-bootstrap/Tooltip";
 
