@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import pdf from "../../pages/Aboutme/resume.pdf";
+import pdf from "../../pages/Aboutme/resumeats.pdf";
 
 export default function NavTop() {
   return (

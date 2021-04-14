@@ -39,7 +39,7 @@ function AboutMe() {
                 <a
                   className="mx-3"
                   target="_blank"
-                  href="mailto:jwhitman135@outlook.com"
+                  href="mailto:jessicamorrison.webdev@gmail.comn"
                   aria-label="Email"
                 >
                   {email}
