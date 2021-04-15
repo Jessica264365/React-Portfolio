@@ -5,11 +5,12 @@
   margin-bottom: 90px;
 }
 #portfolio {
-  border: 2px solid #73ad21;
+  border: 2px solid teal;
   border-radius: 25px;
   max-width: 400px;
   text-align: center;
   margin: auto;
+  box-shadow: 3px;
 }
 #button {
   background-color: teal;
