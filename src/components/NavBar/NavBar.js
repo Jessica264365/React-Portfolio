@@ -16,16 +16,16 @@ export default function NavTop() {
         className="justify-content-end"
       >
         <Nav>
-          <Nav.Link to="/" as={Link}>
+          <Nav.Link active={false} to="/" as={Link}>
             About Me
           </Nav.Link>
-          <Nav.Link eventKey={2} to="/portfolio" as={Link}>
+          <Nav.Link active={false} eventKey={2} to="/portfolio" as={Link}>
             Portfolio
           </Nav.Link>
-          <Nav.Link eventKey={2} href={pdf}>
+          <Nav.Link active={false} eventKey={2} href={pdf}>
             Resume
           </Nav.Link>
-          <Nav.Link eventKey={2} to="/contact" as={Link}>
+          <Nav.Link active={false} eventKey={2} to="/contact" as={Link}>
             Contact
           </Nav.Link>
         </Nav>
