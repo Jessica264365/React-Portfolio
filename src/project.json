@@ -21,8 +21,8 @@
       "title": "README Generator",
       "about": " A command line professional README generator. That uses Node, Inquirer and makes an axios call to get the badge of your choice.",
       "src": "/images/readme.gif",
-      "deployment": "https://github.com/Jessica264365/Professional-README-Generator",
-      "repo": "https://drive.google.com/file/d/1if7WTmco69nJCu9IYH9EwHRsvTMqtDqu/view"
+      "deployment": "https://drive.google.com/file/d/1if7WTmco69nJCu9IYH9EwHRsvTMqtDqu/view",
+      "repo": "https://github.com/Jessica264365/Professional-README-Generator"
     },
     {
       "_id ": 4,
